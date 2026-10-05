@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "oxlint"
+    "deploy": "gh-pages -d dist",
   },
   "dependencies": {
     "canvas-confetti": "^1.9.4",
